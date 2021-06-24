@@ -6,7 +6,7 @@ For example, you might sometimes find that your IP is blocked if you fail to log
 This script is an example of this vulnerability.
 
 ## Run script
-The scipts needs accepts 2 parameters, a mandatory URL parameter  and a passoword file wich is optional. By default there is a default password list used my the program if you don't specify a file.
+The script accepts 2 parameters, a mandatory URL parameter and an optional passoword file parameter. By default there is a password list used by the program if you don't specify one.
 ### Usage
 Without a password file:
 
